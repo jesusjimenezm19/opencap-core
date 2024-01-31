@@ -40,7 +40,7 @@ import utils
 # Sessions to download. List of strings of identifiers (36-character) string
 # at the end of the session url app.opencap.ai/session/<session_id>
 session_ids = [
-               '23d52d41-69fe-47cf-8b60-838e4268dd50'
+               'abe79267-646f-436b-a19e-a9e1d1d8f32807'
               ] # list of session identifiers as strings
 
 # Local path to download sessions to
